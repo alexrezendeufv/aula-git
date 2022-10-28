@@ -1,2 +1,3 @@
 # aula-git
-Repositório para a colearning de git!
+Repositório para a colearning de git - Aula legal!!!
+Acho que a turma está interagindo bem...
