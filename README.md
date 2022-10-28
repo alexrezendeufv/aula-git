@@ -1,2 +1,3 @@
 # aula-git
-Repositório para a colearning de git!
+Hoje a jiripoca vai piá! Vai, vai!
+Conflitos do bem. =)
